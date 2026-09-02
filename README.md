@@ -1,1 +1,1 @@
-# sougougata
+# sou-gou-gata
