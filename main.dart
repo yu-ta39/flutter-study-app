@@ -38,7 +38,7 @@ class _StudyHomeState extends State<StudyHome> {
 
     timer = Timer.periodic(const Duration(seconds: 1), (_) {
       setState(() {
-        currentSeconds+=59;
+        currentSeconds++;
       });
     });
   }
