@@ -1,1 +1,1 @@
-# daigaku-juken
+# sougougata
