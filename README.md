@@ -1,1 +1,1 @@
-# sou-gou-gata
+# 入試用
